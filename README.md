@@ -1,5 +1,5 @@
 # Sheet
-Sheet Reading Trainer V.1
+Sheet Reading Trainer V.1 .1
 By FahrerDesPhilips
 
 Instruction English:
